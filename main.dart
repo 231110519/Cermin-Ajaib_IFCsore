@@ -4,7 +4,7 @@ import 'package:projek_cerminajaib/provider/container_provider.dart';
 import 'package:projek_cerminajaib/provider/detail_provider.dart';
 import 'package:projek_cerminajaib/provider/diet_provider.dart';
 import 'package:projek_cerminajaib/provider/keranjang_provider.dart';
-import 'package:projek_cerminajaib/provider/olahraga_provider.dart';
+
 import 'package:projek_cerminajaib/provider/theme_provider.dart';
 import 'package:projek_cerminajaib/screens/Home/home.dart';
 import 'package:projek_cerminajaib/screens/Login/awal.dart';

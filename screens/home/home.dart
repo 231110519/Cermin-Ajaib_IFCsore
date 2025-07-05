@@ -8,7 +8,8 @@ import 'package:projek_cerminajaib/screens/Home/notifan.dart';
 import 'package:projek_cerminajaib/screens/chat/konsultant.dart';
 import 'package:projek_cerminajaib/screens/profil/profil_page.dart';
 import 'package:projek_cerminajaib/screens/Home/riwayat_page.dart';
-import 'package:projek_cerminajaib/screens/profil/settings_page.dart';
+import 'package:projek_cerminajaib/screens/settings/settings_page.dart';
+
 import 'package:projek_cerminajaib/widgets/doctorlist.dart';
 import 'package:projek_cerminajaib/widgets/navigation_drawer.dart';
 import 'package:provider/provider.dart';

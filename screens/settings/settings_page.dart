@@ -1,5 +1,7 @@
+// screens/settings/settings_page.dart
 import 'package:flutter/material.dart';
 import 'package:projek_cerminajaib/screens/Home/home.dart';
+import 'package:projek_cerminajaib/screens/settings/privasi_keamanan_page.dart';
 import 'package:provider/provider.dart';
 import 'package:projek_cerminajaib/provider/theme_provider.dart';
 import 'package:projek_cerminajaib/screens/settings/tentang.dart';
